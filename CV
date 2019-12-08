@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,minimal-ui" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="keywords" content="CV, Resume" />
+        <meta name="description" content="resume" />
+
+        <!-- fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+        <!--ios-->
+        <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-precomposed.png">
+
+        <!--loading css-->
+        <link href="css/pace-theme-flash.css" rel="stylesheet" type="text/css">
+
+        <!--css-->
+        <link href="css/style.css" rel="stylesheet">
+
+        <!--css-->
+        <link href="css/responsive.css" rel="stylesheet">
+
+        <!--cdd-->
+        <link href="css/font.css" rel="stylesheet" type="text/css">
+
+        <title>Stefanie Conrad's CV</title>
+    </head>
+    <body>
+
+
+        <!--print button-->
+        <a href="javascript:;" class="r5 button_print btn_green">print</a>
+        <!-- home button -->
+        <a href="https://github.com/StefinityConrad/" class="r5 button_home btn_green"><i aria-hidden="true" data-icon="&#xe009;"></i></a>
+
+        <!-- main window-->
+        <div class="main">
+            <!-- main content window -->
+            <div class="content">     
+                <!--header-->
+                <div class="header clearfix" style="height:200px">
+                    <div class="avatar">
+                        <em class=" avatar_pic circle doing">Jan</em>
+                    </div>
+                    <div class="base">
+                        <p >Curriculum Vitae</p>
+                        <h2>Stefanie Conrad</h2>
+                        <p>Environmental Scientist</p>
+                        <span>
+                            <p><i aria-hidden="true" data-icon="&#xe01d;"></i>Currently living in Zurich</p>
+                            <p><i aria-hidden="true" data-icon="&#xe00b;"></i>+41767335276</p>
+                            <p><a href="mailto:jan.mikelson@gmail.com" class="tel_me"><i aria-hidden="true" data-icon="&#xe010;"></i>jan.mikelson at gmail.com</a></p>
+                            <p><a href="https://www.linkedin.com/in/jan-mikelson/" class="tel_me"><i aria-hidden="true" data-icon="&#xe09d "></i>https://www.linkedin.com/in/jan-mikelson/</a></p>
+                        </span>
+                    </div>
+                </div><!-- end header -->
+                <p class="base_desc" style="height:80px">Trained in Mathematics, Computer Science and Biology, I am an ambitious young researcher with an entrepreneurial mindset, very strong communication skills, and a passion for climate change, politics and policy. During my Ph.D. at the ETH Zurich, I was working in a highly multidisciplinary and international environment, building and analysing mathematical models for real-life biological systems. Leaving academia, I am now eager to apply my scientific proficiency and enthusiasm in a challenging and fast moving environment around the topics of climate, energy and sustainability. </p>
+                <!-- first info block -->
+                <div class="information clearfix" style="height: 820px; display: block;">
+                    <!--left content-->
+                    <div class="info_area info_left info_content"  style="height:100%">
+                        <h4>My story</h4>
+                        <!-- s1~s5  -->
+                        <p  class="desc s5"><em class="count">Feb. 2019</em>After finishing my Ph.D I am doing a wrap-up postdoc working on several research projects in the areas of Bayesian modelling, parameter inference, optimal experiment design and stochastic systems</p>
+                        <p class="desc s4"><em class="count">March. 2013</em>
+                            Started a Ph.D in Computational Systems Biology at <a href="https://bsse.ethz.ch/ctsb" class="href">CTSB Group</a>, ETH Zurich. Here I developed numerical methods for the modelling of biological processes and for learning of the biochemical mechanisms from experimental data. <br>My work involved: C++, Matlab, Bayesian parameter inference, particle filters, various Monte Carlo methods, Dirichlet Processes.<br><em class="count">April. 2018</em>Moved to London to participate in a 4-month pre-idea and pre-team startup incubator.
+                        </p>
+                        <p class="desc s3"><em class="count">Sept. 2010</em> Moved to Zurich for my M.Sc in Mathematics at the ETH Zurich, focusing on Control Theory and Convex Optimization. During my studies I deepened an practiced my coding knowledge during an internship as a Java programmer at Nebion Ag.</p>
+                        <p class="desc s2"><em class="count">Sept. 2007</em> Moved to Munich for my B.Sc in Mathematics at the TUM, focusing on Numerics and Optimization. Simultaneously finished a Baccaulareat in Philosophy (equivalent to a B.Sc). While studying, I supported myself through a student job at an engineer consulting company Altran GmbH & Co.KG.</p>
+                        <p class="desc s1"><em class="count">Sept. 2006</em> After finishing High School in Germany, I moved to Jerusalem where I was working as an international volunteer with mentally and physically severly challenged children</p>
+                    </div> <!-- </div> end of left project -->
+
+                        
+                    <!-- time line-->
+                    <div class="info_area info_right info_timeline" style="height: 100%; display: block;">
+                        <h4 align="center"><i aria-hidden="true" data-icon="&#x7d;"></i>&nbsp;Timeline</h4>
+                        <ul>
+                            <li class="clearfix top" id="s5">
+                                <!--list-->
+                                <div class="dot"><b></b></div>
+                                <!-- content -->
+                                <div class="con">
+                                    <h3><a href="https://bsse.ethz.ch" class="href">ETH Zurich</a></h3>
+                                    <p>Postdoctoral researcher</p>
+                                    <p class="desc">2019.2 - present</p>
+                                </div>
+                            </li>
+                            <li class="clearfix left_button" id="s4">
+                                <!--list-->
+                                <div class="dot"><b></b></div>
+                                <!-- content -->
+                                <div class="info_left" >
+                                    <div class="con">
+                                        <h3><a href="https://bsse.ethz.ch" class="href">ETH Zurich</a></h3>
+                                        <p>PhD Researcher</p>
+                                        <p class="desc">2013.3 - 2019.2</p>
+                                    </div>
+                                </div>
+                                <div class="con">
+                                    <h3><a href="https://www.joinef.com/" class="href">Entrepreneurs First (London)</a></h3>
+                                    <p>Cohort Member</p>
+                                    <p class="desc">2018.4 - 2018.8</p>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </div>
+                            </li>
+                            <li class="clearfix left_button" id="s3">
+                                <!--list-->
+                                <div class="dot"><b></b></div>
+                                <!--content-->
+                                <div class ="info_left">
+                                    <div class="con">
+                                        <h3><a href="https://math.ethz.ch/" class="href">ETH Zurich</a></h3>
+                                        <p>MSc Mathematics</p>
+                                        <p class="desc">2010.10 - 2012.9</p>
+                                    </div>
+                                </div>
+                                <div class="con">
+                                    <h3><a href="https://nebion.com/" class="href">Nebion AG</a></h3>
+                                    <p>Internship as Java programmer</p>
+                                    <p class="desc">2011.5 - 2012.9</p>
+                                    <br>
+                                </div>
+                            </li>
+                            <li class="clearfix left_button" id="s2">
+                                <!--list-->
+                                <div class="dot"><b></b></div>
+                                <!-- content -->
+                                <div class="info_left">
+                                    <div class="con">
+                                        <h3><a href="https://www.ma.tum.de/en" class="href">TU Munich</a></h3>
+                                        <p>BSc  Mathematics</p>
+                                        <p class="desc">2007.9 - 2010.9</p>
+                                    </div>
+                                    <div class="con">
+                                        <h3><a href="https://www.hfph.de/en" class="href">Munich School of Philosophy</a></h3>
+                                        <p>Bacc. Philosophy</p>
+                                        <p class="desc">2008.4 - 2010.9</p>
+                                    </div>
+                                </div>
+                                <div class="con">
+                                    <h3><a href="https://www.altran.com/de/en/" class="href">Altran GmbH & Co. KG</a></h3>
+                                    <p>Working student</p>
+                                    <p class="desc">2008.5 - 2009.8</p>
+                                </div>
+                            </li>
+                            <li class="clearfix bottom" id="s1">
+                                <!--list-->
+                                <div class="dot"><b></b></div>
+                                <!-- content -->
+                                <div class="con info_left">
+                                    <h3><a href="https://www.shekel.org.il/en" class="href">Shekel, Israel</a></h3>
+                                    <p>International volunteer</p>
+                                    <p class="desc">2006.9 - 2007.9</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <br>
+                    </div>  <!-- end of time line -->
+                </div> <!-- end of first info block -->
+                        
+                
+                <!-- second info block -->
+                <div class="information clearfix">
+                    <!--left content-->
+                    <div class="info_area info_content info_left"><!-- class="info_area info_left info_content">-->
+                        <h4>Some things I did outside of work</h4>
+                        <ul style="list-style-type: disc; margin-left: 10px;">
+                        <li><!--class="clearfix">-->
+                                <div class="con">
+                                    <h2 ><i aria-hidden="true"><!-- data-icon="&#x5b;">-->2019- </i>SDGAcademy Course: <a href="https://courses.edx.org/certificates/56a7485acf1f4179a93e19c75ce22f0e" class="href">Climate Change Science and Negotiations</a></h2>
+                                </div>
+                            </li>
+                            <li ><!--class="clearfix">-->
+                                <div class="con">
+                                    <h2><i aria-hidden="true" >2019- </i>Co-organizer summer school <a href="https://quantbio2019.epfl.ch/" class="href">quantbio2019</a></h2>
+                                    <h3 style="color: #999">Organization of an international 5-day summer school in Fiesch.</h3>
+                                </div>
+                            </li>
+                            <li ><!--class="clearfix">-->
+                                <div class="con">
+                                    <h2><i aria-hidden="true">2016- </i>Data Science consulting for startup, <a href="https://www.piomic.com/" class="href">Piomic (Zurich)</a> </h2>
+                                    <h3 style="color: #999">Development of Matlab tool for proof-of-concept for the segmentation and classification of chronic wounds based on clinical images. </h3>
+                                </div>
+                            </li>
+                            <li ><!--class="clearfix">-->
+                                <div class="con">
+                                    <h2><i aria-hidden="true">2016- </i><a href="https://codingcompetitions.withgoogle.com/hashcode" class="href">Google Hash Code 2016</a></h2>
+                                    <h3 style="color: #999">International team programming competition. Ranked 165 from over 1000 teams of programmers in Europe.</h3>
+                                </div>
+                            </li>
+                            <li ><!--class="clearfix">-->
+                                <div class="con">
+                                    <h2><i aria-hidden="true">2014- </i><a href="https://sysbio-course.org/past-courses/sysbio2016/" class="href">SysBio2014 Young Investigator Award: Systems Biology in Practice</a></h2>
+                                </div>
+                            </li>
+                        </ul>
+                    </div> <!-- end of left content -->
+                
+                    <!-- start of right skills -->
+                    <div class="info_area info_right">
+                        <h4>Skill points</h4>
+                    
+                        <!-- Languages and code block -->
+                        <div class="skill_points">
+                            <!-- Languages -->
+                            <div class="info_area skills_left skills">
+
+                                <dl class="clearfix">
+                                    <dt><h6><i aria-hidden="true" data-icon="&#x76;"></i>Languages<h6></dt>
+                                    <dd></dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>German</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                    </dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>English</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                    </dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>Russian</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <em></em>
+                                    </dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>French</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <em></em>
+                                        <em></em>
+                                        <em></em>
+                                    </dd>
+                                </dl>
+                                <br>
+                            </div><!-- </div> languages -->
+                    
+                            <!-- Coding skills -->
+                            <div class="info_area skills_right skills">
+
+                                <dl class="clearfix">
+                                    <dt><h6><i aria-hidden="true" data-icon="&#xe105;"></i>Code<h6></dt>
+                                    <dd></dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>C++</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <div class="point">
+                                           <div class="half_cover"></div>
+                                        </div>
+                                    </dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>Matlab</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <em></em>
+                                    </dd>
+                                </dl>
+                                <dl class="clearfix">
+                                    <dt>Java</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <b></b>
+                                        <em></em>
+                                        <em></em>
+                                    </dd>
+
+                                </dl>     
+                                <dl class="clearfix">
+                                    <dt>Python</dt>
+                                    <dd>
+                                        <b></b>
+                                        <b></b>
+                                        <em></em>
+                                        <em></em>
+                                        <em></em>
+                                        <em></em>
+                                    </dd>
+
+                                </dl>                 
+                            </div><!-- end coding skills-->
+                        </div><!-- end languages and coding -->
+                        
+                        <!-- knowledge block-->
+                        <div class="info_area sills_long">
+                            <dl class="clearfix mt20">
+                                <dt><h6><i aria-hidden="true" data-icon="&#xe007;"></i>Knowledge<h6></dt>
+                                <dd></dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>Bayesian modelling</dt>
+                                <dt>Bayesian inference</dt>
+                                <dt>Stochastic dynamical systems</dt>
+                                <dt>Software development</dt>
+                                <dt>Control &amp; Estimation Theory</dt>
+                                <dt>MCMC methods</dt>
+                            </dl>
+                        </div><!--end of knowledge block -->
+                    </div> <!-- end of right skill-->
+                </div><!-- end of second info block -->
+            <div><!-- end of main content window -->
+        <div><!-- end of main window -->
+            
+            
+            
+ 
+
+        <!--Jquery 2.1 ie6、7、8-->
+        <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+
+        <!--jquery -->
+        <script type="text/javascript" src="js/jQuery.print.js"></script>
+
+        <!--effect-->
+        <script type="text/javascript" src="js/common.js"></script>
+
+    </body>
+</html>
